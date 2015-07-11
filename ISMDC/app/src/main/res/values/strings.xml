@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ISMDC</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login Strings -->
+    <string name="email_prompt">Email Address</string>
+    <string name="password_prompt">Password</string>
+    <string name="login_button">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
